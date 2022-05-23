@@ -1,9 +1,10 @@
 # Puny to Powerful Postgresql Rails Apps
 
 Andy Atkinson (Fountain)
-[slides](https://speakerdeck.com/andyatkinson/puny-to-powerful-postgresql-rails-apps)
-**(wait for the recording)**
-About challenges and solutions for database scaling
+
+[slides](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/postgres-rails-apps.md)
+
+About challenges and solutions for database scaling. He talked pretty fast so I wasn't able to write much down. The slides are thorough, though.
 
 ## Safe migrations
 
