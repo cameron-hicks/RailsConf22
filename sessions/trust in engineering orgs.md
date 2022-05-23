@@ -1,0 +1,62 @@
+# Do You Trust Me?: A look at trust, time, and teams
+
+John DeWyze (Shopify)
+
+- systems of trust
+  - systems of assumptions that allow us to achieve a minimum level of trust upon first meeting someone or without much context. Enables social harmony and teamwork
+  - these systems form the bases/sources of trust:
+    - external:
+      - culture
+        - ex: how to queue up, who has right of way on the street, how much responsibility to give kids
+      - experience
+        - ex: attachment theory, prior experiences we've had at work
+      - contracts
+        - legal enforcement
+      - titles and certifications
+    - internal:
+      - teams
+      - managers
+        - the defenders of trust
+      - tech leads
+- trust rituals
+  - in our jobs: PRs, code review, CI
+  - things that build trust in our code & how/why
+    - PRs:
+      - timely checkpoints
+      - group effort
+      - knowledge sharing
+      - edge cases (test coverage, a good PR writeup)
+    - tests:
+      - preventing regressions
+      - tests as documentation
+    - other:
+      - CI
+      - pairing
+      - type systems
+      - rubocop
+      - code coverage
+      - design patterns
+      - JIRA et al.
+- trust and time
+  - our trust rituals are attempts to save us time by preventing trust violations that would require time to rectify... etc. in a circle
+- what is trust?
+  - trust is about your relationship to the other
+  - a form of reliance that can breed betrayal or camaraderie
+  - what are the components of trust?
+    - predictability
+    - competence
+    - integrity
+    - benevolence
+- types of trust violations
+  - integrity violation
+  - competence violation
+- repairing interpersonal violations
+  - acknowledgement
+  - apologies
+  - improvement
+  - humble competency
+- repairing systemic violations (violations to systems of trust)
+  - e.g. when you join a company where trust is missing or damaged
+  - must first fix trust deficits
+- trust allows for experimentation without penalty
+  - ie, psychological safety
