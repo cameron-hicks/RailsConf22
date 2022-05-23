@@ -2,7 +2,7 @@
 
 sponsored by Shopify
 Ryan Brushett, Alexandre Masa
-[slides](https://github.com/Shopify/rubygems.org/blob/master/slides.pdf)
+[slides](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/gradually-typing-rails-slides.pdf)
 
 - Sorbet type checking command: `bundle exec srb tc`
 - why doesn't shopify use RBS? (type checker)
