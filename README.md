@@ -1,5 +1,7 @@
 # RailsConf22
 
+Collection of most (all?) of the talk slides: https://masilotti.com/railsconf-2022/
+
 ## Keynotes
 
 [Xavier Nora: How he created Zeitwerk](https://github.com/cameron-hicks/RailsConf22/blob/main/keynotes/keynote-tues-am-xavier-nora.md)
