@@ -2,7 +2,7 @@
 
 Andy Atkinson (Fountain)
 
-[slides](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/postgres-rails-apps.md)
+[slides](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/puny-powerful-postgresql-rails-apps.pdf)
 
 About challenges and solutions for database scaling. He talked pretty fast so I wasn't able to write much down. The slides are thorough, though.
 

@@ -18,10 +18,12 @@
 
 [Advice for leveling up to senior engineer](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/leveling%20up%20from%20mid%20to%20senior.md)
 
-[Solutions for scaling postgres-rails databases](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/postgres-rails-apps.md)
+[Problems & solutions for postgres-rails databases](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/postgres-rails-apps.md)
 
-[]()
+[Cool features of the Rails & Ruby consoles](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/rails-c-with-me.md)
 
-[]()
+[Rails services & business logic](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/service-layer.md)
 
-[]()
+[STEM history and fair attribution in tech workspaces](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/the-mrs-triggs-problem.md)
+
+[Trust in engineering orgs](https://github.com/cameron-hicks/RailsConf22/blob/main/sessions/trust%20in%20engineering%20orgs.md)
